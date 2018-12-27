@@ -7,6 +7,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "fspg", "fspg\fspg.fsproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "player", "player\player.csproj", "{DF9B2E83-3758-469E-9B99-357BB6850D1A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{059C54B0-93FE-4C6F-A375-36C76F0AD1A6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DF9B2E83-3758-469E-9B99-357BB6850D1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF9B2E83-3758-469E-9B99-357BB6850D1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF9B2E83-3758-469E-9B99-357BB6850D1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{059C54B0-93FE-4C6F-A375-36C76F0AD1A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{059C54B0-93FE-4C6F-A375-36C76F0AD1A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{059C54B0-93FE-4C6F-A375-36C76F0AD1A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{059C54B0-93FE-4C6F-A375-36C76F0AD1A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
