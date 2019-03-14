@@ -51,6 +51,8 @@
     <Content Include="packages.config" />
     <Compile Include="File1.fs" />
     <Compile Include="SampleTest.fs" />
+    <Compile Include="Calc.fs" />
+    <Compile Include="CalcTest.fs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="FSharp.Core">
